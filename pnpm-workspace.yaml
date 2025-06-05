@@ -1,0 +1,7 @@
+packages:
+  - 'frontend/web'
+  - 'frontend/mobile'
+  - 'backend/api'
+  - 'backend/services/*'
+  - 'packages/*'
+  - 'shared/*'
